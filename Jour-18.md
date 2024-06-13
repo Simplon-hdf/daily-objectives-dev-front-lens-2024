@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mercredi 13/06/2024
+## Jeudi 13/06/2024
 
 ### Angular :
 
